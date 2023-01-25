@@ -1,7 +1,3 @@
--- Create database
-
-CREATE DATABASE sunnyside_booking1;
-
 -- Customers
 CREATE TABLE customers(
     cust_id SMALLSERIAL PRIMARY KEY NOT NULL UNIQUE,
